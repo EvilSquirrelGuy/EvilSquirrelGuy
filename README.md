@@ -14,7 +14,12 @@ I'm currently working on 2 things:
 
 - Not working on SquirrelClient
 ```
+
+#### Message
+```
+Why didn't you vote for the Iceologer, the glow squid is actually useless, we NEED more hostile mobs
+```
 <br>
 <br>
 
-<sub>Last Updated at 09:22:32 UTC on 5th October 2020</sub>
+<sub>Last Updated at 09:27:36 UTC on 5th October 2020</sub>
