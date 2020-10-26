@@ -12,7 +12,7 @@ I'm currently working on 2 things:
 + Currently working on v0.0.4 of Souls of the Forest
 #   To Alpha Testers: Keep submitting bug reports and suggestions
 
-- Not working on SquirrelClient
++ Working on AdminHax, but since it's private, this will be removed when i can remember
 ```
 
 #### Message
@@ -22,4 +22,4 @@ Why didn't you vote for the Iceologer, the glow squid is actually useless, we NE
 <br>
 <br>
 
-<sub>Last Updated at 09:27:36 UTC on 5th October 2020</sub>
+<sub>Last Updated at 19:55:30 UTC on 26th October 2020</sub>
