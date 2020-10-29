@@ -1,4 +1,6 @@
 ## EvilSquirrelGuy
+<img src="https://komarev.com/ghpvc/?username=evilsquirrelguy&color=350255">
+
 #### About Me
 I am EvilSquirrelGuy, the Owner and Leader of [OS-Games-Official](https://www.github.com/OS-Games-Official/). I use GitHub to upload various bits and bobs and I'm using it for bug tracking for one of my big projects.
  
@@ -12,7 +14,7 @@ I'm currently working on 2 things:
 + Currently working on v0.0.4 of Souls of the Forest
 #   To Alpha Testers: Keep submitting bug reports and suggestions
 
-+ Working on AdminHax, but since it's private, this will be removed when i can remember
++ Might release SquirrelClient, but probably not, stay tuned guys
 ```
 
 #### Message
