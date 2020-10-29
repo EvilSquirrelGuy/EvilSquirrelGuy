@@ -23,9 +23,10 @@ Why didn't you vote for the Iceologer, the glow squid is actually useless, we NE
 ```
 <br>
 <br>
+
 #### Quick links
 
 https://shields.io/
 
 ***
-<sub>Last Updated at 21:33:32 UTC on 29th October 2020</sub>
+<sub>Last Updated at 21:35:00 UTC on 29th October 2020</sub>
