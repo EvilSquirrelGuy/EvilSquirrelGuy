@@ -7,14 +7,14 @@ I am EvilSquirrelGuy, the Owner and Leader of [OS-Games-Official](https://www.gi
 #### My Projects
 I'm currently working on 2 things:
 - [A game](https://www.github.com/OS-Games-Official/SoulsOfTheForest) (and no I'm not stupid enough to publish the source code, lol.)
-- [A Minecraft hacked client](https://www.github.com/EvilSquirrelGuy/SquirrelClient), yes, I'll make this one open source when I start it eventually...
+- ~~[A Minecraft hacked client](https://www.github.com/EvilSquirrelGuy/SquirrelClient), yes, I'll make this one open source when I start it eventually...~~ Postponed indefinitely.
 
 #### Project Status
 ```diff
 + Currently working on v0.0.4 of Souls of the Forest
 #   To Alpha Testers: Keep submitting bug reports and suggestions
 
-+ Might release SquirrelClient, but probably not, stay tuned guys
+- SquirrelClient has been postponed indefinitely.
 ```
 
 #### Message
@@ -29,4 +29,4 @@ Why didn't you vote for the Iceologer, the glow squid is actually useless, we NE
 https://shields.io/
 
 ***
-<sub>Last Updated at 21:35:00 UTC on 29th October 2020</sub>
+<sub>Last Updated at 17:19:55 UTC on 2nd November 2020</sub>
