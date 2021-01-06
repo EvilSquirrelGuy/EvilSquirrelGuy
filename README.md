@@ -5,7 +5,7 @@
 I am EvilSquirrelGuy, the Owner and Leader of [OS-Games-Official](https://www.github.com/OS-Games-Official/). I use GitHub to upload various bits and bobs and I'm using it for bug tracking for one of my big projects.
  
 #### My Projects
-I'm currently working on 2 things:
+I'm currently working on 1 things:
 - [A game](https://www.github.com/OS-Games-Official/SoulsOfTheForest) (and no I'm not stupid enough to publish the source code, lol.)
 
 #### Project Status
@@ -14,7 +14,7 @@ I'm currently working on 2 things:
 ```
 
 #### Top Programming Languages 
-<img width="64" src="https://simpleicons.org/icons/html5.svg" /> <img width="64" src="https://simpleicons.org/icons/css3.svg" /> <img width="64" src="https://simpleicons.org/icons/python.svg" /> <img width="64" src="https://simpleicons.org/icons/javascript.svg" /> <img width="64" src="https://simpleicons.org/icons/java.svg" /><img width="64" src="https://simpleicons.org/icons/cplusplus.svg"/> <img width="64" src="https://simpleicons.org/icons/markdown.svg" />
+<img width="64" src="https://simpleicons.org/icons/html5.svg" /> <img width="64" src="https://simpleicons.org/icons/css3.svg" /> <img width="64" src="https://simpleicons.org/icons/python.svg" /> <img width="64" src="https://simpleicons.org/icons/javascript.svg" /> <img width="64" src="https://simpleicons.org/icons/java.svg" /><img width="64" src="https://simpleicons.org/icons/markdown.svg" />
 <br>
 <br>
 
@@ -23,4 +23,4 @@ I'm currently working on 2 things:
 https://shields.io/
 
 ***
-<sub>Last Updated at 17:19:55 UTC on 2nd November 2020</sub>
+<sub>Last Updated at 08:22 UTC on 6th January 2021</sub>
