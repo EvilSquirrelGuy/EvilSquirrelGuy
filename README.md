@@ -5,7 +5,7 @@
 I am EvilSquirrelGuy, the Owner and Leader of [OS-Games-Official](https://www.github.com/OS-Games-Official/). I use GitHub to upload various bits and bobs and I'm using it for bug tracking for one of my big projects. Also: Dark mode is the only mode.
 
 #### Stats
-![EvilSquirrelGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilSquirrelGuy)
+![EvilSquirrelGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilSquirrelGuy&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true)
 
 #### My Projects
 I'm currently working on 2 things:
@@ -27,4 +27,4 @@ I'm currently working on 2 things:
 https://shields.io/
 
 ***
-<sub>Last Updated at 08:22 UTC on 6th January 2021</sub>
+<sub>Last Updated at 09:23 UTC on 3rd March 2021</sub>
