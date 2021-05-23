@@ -14,17 +14,12 @@ I'm currently working on 2 things:
 
 #### Project Status
 ```diff
-# Nothing to see here...
+# There are no current projects, I am busy not being super-mega developer
 ```
-
-#### Top Programming Languages 
-<img width="64" src="https://simpleicons.org/icons/html5.svg" /> <img width="64" src="https://simpleicons.org/icons/css3.svg" /> <img width="64" src="https://simpleicons.org/icons/python.svg" /> <img width="64" src="https://simpleicons.org/icons/javascript.svg" /> <img width="64" src="https://simpleicons.org/icons/java.svg" /><img width="64" src="https://simpleicons.org/icons/markdown.svg" />
-<br>
-<br>
 
 #### Quick links
 
 https://shields.io/
 
 ***
-<sub>Last Updated at 17:19 UTC on 3rd March 2021</sub>
+<sub>Last Updated at 18:41 UTC on 23rd May 2021</sub>
