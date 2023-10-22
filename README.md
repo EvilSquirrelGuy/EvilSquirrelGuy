@@ -8,13 +8,12 @@ I am EvilSquirrelGuy, that is all, anything else that was here is irrelevant.
 ![EvilSquirrelGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilSquirrelGuy&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true)
 
 #### My Projects
-I'm currently working on 2 things:
-- procrastination
-- more procrastination
+I'm currently working on 1 thing:
+- playing genshin impact
 
 #### Project Status
 ```diff
-- There has been nothing here and there will be nothing here for idk how long.
+- Not working on anything.
 ```
 
 #### Quick links
@@ -22,4 +21,4 @@ I'm currently working on 2 things:
 https://shields.io/
 
 ***
-<sub>Last Updated at 08:59 UTC on 26th Sep 2022</sub>
+<sub>Last Updated at 21:22 UTC on 22nd Oct 2023</sub>
