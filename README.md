@@ -20,6 +20,7 @@ I'm a 3<sup>rd</sup> year Computing Science student who plays too much Genshin I
 
 - [BrokenSilence](https://github.com/EvilSquirrelGuy/BrokenSilence) - Generate your own "1 hour occasionally broken up by <sound>" videos!
 - [µThemes (MicroThemes)](https://github.com/EvilSquirrelGuy/MicroThemes) - Various Discord CSS tweaks that don't deserve their own repo
+- [Userscripts](https://github.com/EvilSquirrelGuy/Userscripts) - A collection of Tampermonkey scripts for improving the QoL of certain websites I use
 - Pterodactyl Eggs
   - [BotW Multiplayer](https://github.com/EvilSquirrelGuy/BOTWM-Pterodactyl) - Docker container for hosting BotW Multiplayer on your Pterodactyl server
   - [Hollow Knight Multiplayer](https://github.com/EvilSquirrelGuy/HKMP-Pterodactyl) - Docker container for hosting HKMP on your Pterodactyl server
