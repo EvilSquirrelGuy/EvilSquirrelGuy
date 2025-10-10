@@ -11,7 +11,7 @@ I'm a 4<sup>th</sup> year Computing Science student who plays too much Genshin I
 #### Active/Big projects
 > [**NamecardTools**](https://github.com/EvilSquirrelGuy/NamecardTools)
 > 
-> NextJS web app for doing stuff with Genshin namecards.
+> NextJS web app for doing stuff with Genshin namecards. [Indefinitely on hold]
 > [Visit instance](https://namecard-tools.vercel.app)
 
 #### Random odds and ends
