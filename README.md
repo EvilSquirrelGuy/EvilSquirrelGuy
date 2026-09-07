@@ -4,6 +4,8 @@
 ### About Me
 I'm an Information Security student who plays too much Genshin Impact and occasionally starts stupid little projects.
 
+<sub>Also, I use Arch BTW ;)</sub>
+
 ### Stats
 ![EvilSquirrelGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilSquirrelGuy&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true)
 
