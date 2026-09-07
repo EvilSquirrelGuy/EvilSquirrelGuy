@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=evilsquirrelguy&color=ff5100"> <img src="https://img.shields.io/github/last-commit/evilsquirrelguy/evilsquirrelguy.svg"> <img src="https://img.shields.io/badge/projects-0-orange"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/EvilSquirrelGuy?label=Follow&style=social">
 
 ### About Me
-I'm a recent Computing Science graduate who plays too much Genshin Impact and occasionally starts stupid little projects.
+I'm an Information Security student who plays too much Genshin Impact and occasionally starts stupid little projects.
 
 ### Stats
 ![EvilSquirrelGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilSquirrelGuy&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true)
@@ -29,7 +29,7 @@ I'm a recent Computing Science graduate who plays too much Genshin Impact and oc
 
 ### Project Status
 ```diff
-+ Working on NamecardTools (when I don't have uni)
+- idk anymore
 ```
 
 ### Quick links
